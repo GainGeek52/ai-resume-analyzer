@@ -4,7 +4,7 @@ An intelligent Streamlit web application that analyzes PDF resumes and provides 
 
 ## 🚀 Live Demo
 
-[Try the live demo here](https://your-app-url.streamlit.app) *(Deploy to get your URL)*
+[Try the live demo here](https://ai-resume-analyzer-6n7mczgqypwlxaukfdfhmy.streamlit.app/) *(Deploy to get your URL)*
 
 ## ✨ Features
 
